@@ -17,3 +17,16 @@ requests==2.31.0
 shortuuid==1.0.11
 sqlparse==0.4.4
 tzdata==2023.3
+
+# Tambahan penting
+psycopg2-binary==2.9.9  # atau mysqlclient==2.2.4
+celery==5.3.6
+redis==5.0.3
+django-redis==5.4.0
+pytz==2024.1
+python-slugify==8.0.1
+
+# (Opsional)
+pytest==8.2.0
+pytest-django==4.8.0
+ipython==8.24.0
